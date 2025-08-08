@@ -181,7 +181,6 @@ class NimAI():
         return next_move
             
 
-
 def train(n):
     """
     Train an AI by playing `n` games against itself.
